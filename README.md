@@ -3,9 +3,7 @@
 Final-semester B.Sc. Software Engineering student at **Braude College of Engineering** .
 Interested in **AI, Machine Learning, Full-Stack Development, and Data Analysis**.
 
----
-
-## 🛠 Tech Stack
+## skills
 
 **Programming Languages**  
 Python • Java • C • C# • JavaScript • TypeScript • SQL • MATLAB • Assembly
@@ -25,8 +23,6 @@ Git • GitHub • Jupyter • Google Colab • HuggingFace • Vercel • Anaco
 **Other**  
 Linux / UNIX • Agile / Scrum • OOP • Design Patterns • Algorithms & Data Structures
 
----
-
 ## 🚀 Featured Projects
 
 ### CASELy – AI-Guided Socratic Dialogue System
@@ -43,12 +39,8 @@ Cloud-based monitoring system for sensor data with **real-time dashboards and an
 ### Library Management System
 Distributed **client-server library system** implemented in Java, JavaFX and MySQL.
 
----
-
 ## 🌍 Languages
 Arabic (Native) • Hebrew (High Level) • English (High Level)
-
----
 
 ## 📫 Contact
 📧 Email: nahlaaboromy@gmail.com  
