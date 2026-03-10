@@ -1,16 +1,15 @@
-## Hi there 👋
+# CASELy – AI-Guided Socratic Dialogue System
 
-<!--
-**NahlaAboromi/NahlaAboromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack platform designed to support Social-Emotional Learning (SEL)
+through AI-guided Socratic dialogue.
 
-Here are some ideas to get you started:
+## Technologies
+React
+Node.js
+Express
+MongoDB
+Tailwind CSS
+Claude AI API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conferences
+Accepted to CHAIS 2026 and IUI 2026 workshops.
